@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarala&size=58&pause=100&color=FFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+My+Name+is+Arthur+Ferreira;I'm+19+years+old;I%C2%B4m+from+Brasil%2C+PA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarala&size=58&pause=100&color=FFFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey%2C+My+Name+is+Arthur+Ferreira;I'm+20+years+old;I%C2%B4m+from+Brasil%2C+PA)](https://git.io/typing-svg)
 <br/>
 
 <div align="center" >  
