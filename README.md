@@ -30,10 +30,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a></p>
 
-<br/>
-<img src="https://raw.githubusercontent.com/oArths/oArths/output/snake.svg" alt="Snake animation" width="40" height="40"/>
-<br/>
-
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oArths&bg_color=000000&high-contrast&color=ffffff&line=195EFC&point=97B7FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
