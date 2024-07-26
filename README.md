@@ -28,7 +28,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a></p>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/> 
+</a>
+</p>
 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oArths&bg_color=000000&high-contrast&color=ffffff&line=195EFC&point=97B7FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
