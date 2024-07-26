@@ -32,6 +32,9 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/> 
 </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="Laravel" width="40" height="40"/> 
+</a>
 </p>
 
 
