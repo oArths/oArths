@@ -8,7 +8,7 @@
 <div align="center" >  
   <img width="49%" height="195px" src="https://github-readme-stats-oarths-projects.vercel.app/api?username=oArths&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="oArths github stats" /> 
   <img width="44%" height="195px" src="https://github-readme-stats-oarths-projects.vercel.app/api/top-langs/?username=oArths&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats-privl34ne-oarths-projects.vercel.app/?user=oArths&&theme=tokyonight" alt="oArths" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=oArths&&theme=tokyonight" alt="oArths" />
 </div>
 
 <br/>
