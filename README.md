@@ -38,6 +38,7 @@
 </p>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="Vue" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" alt="java" width="40" height="40"/> 
 </a>
 </p>
 
