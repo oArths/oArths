@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,angular,dotnet,laravel,nextjs)](https://skillicons.dev)
 
 ##  Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ##  Clound:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)<br><br>
