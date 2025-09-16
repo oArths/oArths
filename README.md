@@ -20,7 +20,7 @@
 </p>
 
 ##  Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,java,nodejs,cpp,pho)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,java,nodejs,cpp,php,c)](https://skillicons.dev)
 
 ##  Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,dotnet,laravel,nextjs)](https://skillicons.dev)
