@@ -6,13 +6,13 @@
 <br/>
 
 <p align="center" display="flex" justify-content="space-between">
-  <img margin-right="20%" width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oArths&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="oArths github stats" /> 
+  <img margin-right="20%" width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=oArths&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="oArths github stats" /> 
   
   <a href="https://open.spotify.com/user/vrg2kvyivrls4ikxif66nipo9?si=5887185f24b84842&nd=1&dlsi=2cebe3f8de6c4d98">
     <img width="200px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vrg2kvyivrls4ikxif66nipo9&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vrg2kvyivrls4ikxif66nipo9&cover_image=true&theme=compact&show_offline=false&background_color=322929&interchange=true)" alt="Spotify Now Playing">
   </a>
   
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oArths&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oArths&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </p>
 
 
